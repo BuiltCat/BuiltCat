@@ -9,7 +9,7 @@ I am currently studying at the Institute of Disaster Prevention.
 - Sass
 - Canvas
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=builtcat&theme=radical" width="30%" >
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=builtcat&theme=radical" width="50%" >
 
 :sparkles: I have some project that I am coding on:
 
@@ -24,9 +24,9 @@ if you want to contact me
 Thank you for your watch ~ :heart:
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=builtcat&theme=radical" width="65%">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=builtcat&theme=radical" width="50%">
 
-:bar_chart:编码
+:bar_chart:Coding
 
 <!--START_SECTION:waka-->
 ```text
