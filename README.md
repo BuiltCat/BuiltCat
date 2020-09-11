@@ -18,7 +18,6 @@ I have some project that I am coding on:
 
 
 <img  src="https://github-readme-stats.vercel.app/api?username=builtcat&theme=radical" width="65%">
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=builtcat&theme=radical" width="35%" >
 
 
 
@@ -29,3 +28,6 @@ I have some project that I am coding on:
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=builtcat&theme=radical" width="35%" >
