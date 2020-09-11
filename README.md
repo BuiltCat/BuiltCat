@@ -1,5 +1,5 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=builtcat&theme=vue" width="50%">
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=builtcat&theme=vue" width="50%" >
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=builtcat&theme=vue-dark" width="50%">
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=builtcat&theme=vue-dark" width="50%" >
 
 Yahallo，I am [xiaoban](http://blog.builtcat.top/)!
 
