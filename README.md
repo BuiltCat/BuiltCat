@@ -12,9 +12,9 @@ I am currently studying at the Institute of Disaster Prevention.
 :sparkles: I have some project that I am coding on:
 
 
-- [音乐播放器](http://moggy.builtcat.top/)
-- [React组件库](http://pussycat.builtcat.top/)
-- [个人博客](http://blog.builtcat.top/)
+- [web music player](http://moggy.builtcat.top/)
+- [React UI Library](http://pussycat.builtcat.top/)
+- [my blog](http://blog.builtcat.top/)
 
 
 <img  src="https://github-readme-stats.vercel.app/api?username=builtcat&theme=radical" width="65%">
@@ -31,3 +31,9 @@ No Activity tracked this Week
 
 
 <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=builtcat&theme=radical" width="35%" >
+
+if you want to contact me
+
+<img src="https://img.shields.io/badge/Email-wt920116625%40live.com-brightgreen">
+
+Thank you for your watch:heart:
