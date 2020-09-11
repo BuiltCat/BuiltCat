@@ -9,13 +9,6 @@ I am currently studying at the Institute of Disaster Prevention.
 - Sass
 - Canvas
 
-:sparkles: I have some project that I am coding on:
-
-
-- [web music player](http://moggy.builtcat.top/)
-- [React UI Library](http://pussycat.builtcat.top/)
-- [My blog](http://blog.builtcat.top/)
-
 
 <img  src="https://github-readme-stats.vercel.app/api?username=builtcat&theme=radical" width="65%">
 
@@ -31,6 +24,14 @@ No Activity tracked this Week
 
 
 <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=builtcat&theme=radical" width="30%" >
+
+
+:sparkles: I have some project that I am coding on:
+
+
+- [web music player](http://moggy.builtcat.top/)
+- [React UI Library](http://pussycat.builtcat.top/)
+- [My blog](http://blog.builtcat.top/)
 
 if you want to contact me
 
