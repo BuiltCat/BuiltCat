@@ -1,9 +1,15 @@
-## Hey, Xiao Ban here!
+Yahallo，I am [xiaoban](http://blog.builtcat.top/)!
 
-Hello everyone! I am a junior and I am currently studying at the School of Disaster Prevention Technology.
- 
+I am currently studying at the Institute of Disaster Prevention.
 
-## The main work 💻
+I am more interested:
+
+- Javascript
+- Typescript
+- Sass
+- Canvas
+
+I have some project that I am coding on:
 
 
 - [音乐播放器](http://moggy.builtcat.top/)
@@ -11,9 +17,13 @@ Hello everyone! I am a junior and I am currently studying at the School of Disas
 - [个人博客](http://blog.builtcat.top/)
 
 
-<img align="right" alt="小半's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=builtcat&theme=dark">
 
-#### :bar_chart:编码
+[](https://github-readme-stats.vercel.app/api?username=builtcat&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=builtcat)](https://github.com/builtcat)
+
+
+:bar_chart:编码
 
 <!--START_SECTION:waka-->
 ```text
