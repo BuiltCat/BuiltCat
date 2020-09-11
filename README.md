@@ -29,10 +29,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 5 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Lean         58 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-JSON         56 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Markdown     52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-YAML         47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
