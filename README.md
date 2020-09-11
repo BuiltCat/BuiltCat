@@ -30,7 +30,7 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=builtcat&theme=radical" width="35%" >
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=builtcat&theme=radical" width="10%" >
 
 if you want to contact me
 
