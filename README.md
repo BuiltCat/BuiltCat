@@ -17,10 +17,9 @@ I have some project that I am coding on:
 - [个人博客](http://blog.builtcat.top/)
 
 
+<img  src="https://github-readme-stats.vercel.app/api?username=builtcat&theme=radical" width="65%">
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=builtcat&theme=radical" width="35%" >
 
-[](https://github-readme-stats.vercel.app/api?username=builtcat&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=builtcat)](https://github.com/builtcat)
 
 
 :bar_chart:编码
