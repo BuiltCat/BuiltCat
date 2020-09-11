@@ -2,14 +2,14 @@ Yahallo，I am [xiaoban](http://blog.builtcat.top/)!
 
 I am currently studying at the Institute of Disaster Prevention.
 
-I am more interested:
+:sunny: I am more interested:
 
 - Javascript
 - Typescript
 - Sass
 - Canvas
 
-I have some project that I am coding on:
+:sparkles: I have some project that I am coding on:
 
 
 - [音乐播放器](http://moggy.builtcat.top/)
