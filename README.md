@@ -14,7 +14,7 @@ I am currently studying at the Institute of Disaster Prevention.
 
 - [web music player](http://moggy.builtcat.top/)
 - [React UI Library](http://pussycat.builtcat.top/)
-- [my blog](http://blog.builtcat.top/)
+- [My blog](http://blog.builtcat.top/)
 
 
 <img  src="https://github-readme-stats.vercel.app/api?username=builtcat&theme=radical" width="65%">
@@ -30,10 +30,10 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=builtcat&theme=radical" width="10%" >
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=builtcat&theme=radical" width="20%" >
 
 if you want to contact me
 
 <img src="https://img.shields.io/badge/Email-wt920116625%40live.com-brightgreen">
 
-Thank you for your watch:heart:
+Thank you for your watch ~ :heart:
