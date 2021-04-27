@@ -24,9 +24,7 @@ I am currently studying at the Institute of Disaster Prevention.
 
 <!--START_SECTION:waka-->
 ```text
-Python       46 mins         █████████████████████░░░░   84.40 % 
-Vue.js       5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-JavaScript   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Python   1 hr 37 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
