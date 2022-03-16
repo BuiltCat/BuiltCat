@@ -28,6 +28,7 @@ I am currently studying at the Institute of Disaster Prevention.
 JavaScript   2 mins          █████████████▒░░░░░░░░░░░   53.69 %
 Vue.js       2 mins          ██████████▒░░░░░░░░░░░░░░   41.01 %
 JSON         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
