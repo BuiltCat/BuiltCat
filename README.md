@@ -28,7 +28,6 @@ I am currently studying at the Institute of Disaster Prevention.
 TeX            49 mins         ███████████████████████░░   91.36 %
 JSON           3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
 OpenEdge ABL   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
