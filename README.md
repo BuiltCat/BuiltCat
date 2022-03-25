@@ -25,9 +25,10 @@ I am currently studying at the Institute of Disaster Prevention.
 <!--START_SECTION:waka-->
 
 ```text
-TeX            49 mins         ███████████████████████░░   91.36 %
-JSON           3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-OpenEdge ABL   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+TypeScript     1 hr 18 mins    ██████████████▓░░░░░░░░░░   59.10 %
+TeX            49 mins         █████████▒░░░░░░░░░░░░░░░   37.37 %
+JSON           3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+OpenEdge ABL   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
