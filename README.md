@@ -25,9 +25,9 @@ I am currently studying at the Institute of Disaster Prevention.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 3 mins    ██████████████▒░░░░░░░░░░   56.96 %
-TypeScript   49 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.94 %
-HTML         43 mins         █████░░░░░░░░░░░░░░░░░░░░   20.10 %
+JavaScript   1 hr 3 mins     ███████████░░░░░░░░░░░░░░   43.84 %
+TypeScript   49 mins         ████████▓░░░░░░░░░░░░░░░░   34.18 %
+HTML         32 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.98 %
 ```
 
 <!--END_SECTION:waka-->
