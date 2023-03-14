@@ -25,7 +25,7 @@ I am currently studying at the Institute of Disaster Prevention.
 <!--START_SECTION:waka-->
 
 ```text
-Other    22 mins         ██████████████████▓░░░░░░   74.99 %
+Other    59 mins         ██████████████████████▒░░   88.87 %
 ```
 
 <!--END_SECTION:waka-->
