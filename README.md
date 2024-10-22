@@ -28,7 +28,7 @@ I am currently studying at the Institute of Disaster Prevention.
 TypeScript   2 hrs 59 mins   ███████████████▓░░░░░░░░░   63.19 %
 MDX          46 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
 CSS          36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 %
-JavaScript   17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+JavaScript   17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
 JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
